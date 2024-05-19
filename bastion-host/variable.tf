@@ -1,0 +1,3 @@
+variable "Bastion_map" {
+  
+}
